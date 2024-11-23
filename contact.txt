@@ -3,23 +3,14 @@ Hash: SHA256
 
 PGP FINGERPRINT: 0795 34B8 4845 048F 31D4 27F1 E2F3 048B 8821 26B7
 
-Telegram: t.me/devil_anon
+Telegram: t.me/cyber_jayy
 
-Signal: @https.01
+Email: cyberguidetelugu@gmail.com
 
-Jabber (xmpp): cyberhell@xmpp.jp
+Keybase: keybase.io/cyber_jayy
 
-Email: devil@bipsy.online
+Github: github.com/cyberhelloff
 
-Keybase: keybase.io/cyberhell
-
-Github: github.com/cyberhellcommunity
-
-XSS: xss.is/members/365844/
-
-Darkforest: dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/u/ice
-
-Pitch: pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/@snake
 
 -----BEGIN PGP SIGNATURE-----
 
